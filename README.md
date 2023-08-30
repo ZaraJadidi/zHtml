@@ -2,7 +2,7 @@
 ### comments
 Comments will help others (and future you!) to understand the code.
 Comments are ignored by browsers and not displayed on the web page.
-<h2> Menu </h2>
+< > Menu < >
 <!--Menu options--> 
 also You can use comments to temporarily disable part of your code so it’s not displayed by the browser.
 
