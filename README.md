@@ -69,6 +69,21 @@ Attributes are modifiers that provide additional information about elements.Attr
 
 some attributes: <br>
 
+ID:To jump to a specific part of a single-page website, first you need to mark the section with the id (ID) attribute.The id attribute is used to identify the element you want to target with the navigation link. 
+Each id attribute value must be:1.unique 2.within quotes
+Once the element you want to jump to has been marked with an id, you can target it with an anchor tag <a>
+The hash character (#) is needed to tell the web browser that we are targeting a section of the same page. 
+ Multiple elements cannot have the same id attribute in HTML
+ jump link : ID
+
+
+
+
+
+
+<br>
+
+
 alt : (alternative text) is used to add image descriptions.1.read aloud by screen readers
 .2.shown when the image doesn’t load
 .3.read by search engines
@@ -83,15 +98,55 @@ Height :  is an optional attribute for the image element.Both width and height a
 When only one of the 2 attributes is given, the web browser will calculate the other based on the aspect ratio so the image is not stretched or squeezed.The aspect ratio of an image determines its rectangular shape.
 Changing the aspect ratio of an image causes distortion, which can look bad.<br>
 
+
 The way visitors navigate a website depends on its design. Websites come in 2 shapes:
 
+- Multiple-page websites:websites are made of more than one page. Navigating between pages requires the web
+browser to load different HTML files
+
+
+- Single-page websites: A single-page website has all its content on the home page. Any navigation links take the visitor down to different sections (instead of loading new pages). <br>
+
+nav : the nave container tag defines a set of links that allows the user to navigate between pages of a website.Links to the different pages are added with the anchor tag <a> and nested inside the <nav> container tag.
+
+ <br>
+
+ file extension: HTML documents must be saved with the right file extension (file type) for web browsers to recognize them. e.g . html documents : .html 
+
+ index.html: A homepage must be named index.html in order for the web browser to find and load it. It’s best practice to name your homepage index.html so that the web browser can find and load it.
+ <br>
+
+ Forms: You can interact with the visitors of your website and collect information from them using forms.Forms are made of input elements like text fields, checkboxes, and submit buttons. These input elements are nested inside the <form> container tag.Form elements will be displayed in the same line unless we use the <br> (line break) tag.
+
+You can use forms to let your visitors:
+
+- get in contact with you
+
+- send orders, requests and other information
+
+- create an account or register
+
+- and much more
+
+Form elements:
+1) Input:The most common form element is <input>. There are many forms of input element, depending on the type attribute.Such as Text,Radio,Checkbox
+2) label tags: Labels can be added for the different input elements with the label tag.they come before input tags to label them .It's considered a very good practice to connect the label to the input elements with the use of for and id attributes.The id attribute is used to identify a unique input element. The for attribute in a label targets (and matches!) an input’s id.To connect labels and inputs, their id and for attribute values must match up exactly.
+label: for
+Input:id <br>
+
+Connecting labels and inputs increases the <u> hit area </u>
+
+
  
+   
 
-- Multiple-page websites
 
-- Single-page websites.
+
+
 
  
+  
+
 
  
 
