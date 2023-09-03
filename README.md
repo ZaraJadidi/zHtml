@@ -57,11 +57,47 @@ HyperText : a text that contains a link to another page, Web pages are called Hy
 href: stands for HyperText reference.<br>
 
 
-landing page : In digital marketing, a landing page is where a visitor “lands” after clicking on a link in an email, an ad on Google, YouTube, Facebook, Twitter, etc.
+Landing page : In digital marketing, a landing page is where a visitor “lands” after clicking on a link in an email, an ad on Google, YouTube, Facebook, Twitter, etc.
 
 Landing pages are great for selling stuff; they also let you track customers and collect data.
 
 Whether you're looking to be a web developer, marketer, or even a data scientist, landing pages can be invaluable.<br> 
+
+Attributes : You can have more control over HTML elements with attributes.
+Attributes are modifiers that provide additional information about elements.Attributes can be optional or required. e.g img tag requred src att.For container tags, the attributes always go in the opening tag. The anchor tag is another example of an HTML element that requires an attribute to work correctly.( a tag requred href att . )href (in the anchor tag) and src (in the image tag) are examples of attributes.
+<br>
+
+some attributes: <br>
+
+alt : (alternative text) is used to add image descriptions.1.read aloud by screen readers
+.2.shown when the image doesn’t load
+.3.read by search engines
+<br>
+
+Width: is an optional attribute.You can control the size of images in your web pages.controls the horizontal dimension of an image.
+name = "value" e.g width ia an att name and "300" is value of an att.
+<br>
+
+Height :  is an optional attribute for the image element.Both width and height are measured in pixels by default.
+
+When only one of the 2 attributes is given, the web browser will calculate the other based on the aspect ratio so the image is not stretched or squeezed.The aspect ratio of an image determines its rectangular shape.
+Changing the aspect ratio of an image causes distortion, which can look bad.<br>
+
+The way visitors navigate a website depends on its design. Websites come in 2 shapes:
+
+ 
+
+- Multiple-page websites
+
+- Single-page websites.
+
+ 
+
+ 
+
+
+ 
+
 
 
 
