@@ -116,7 +116,9 @@ nav : the nave container tag defines a set of links that allows the user to navi
  index.html: A homepage must be named index.html in order for the web browser to find and load it. It’s best practice to name your homepage index.html so that the web browser can find and load it.
  <br>
 
- Forms: You can interact with the visitors of your website and collect information from them using forms.Forms are made of input elements like text fields, checkboxes, and submit buttons. These input elements are nested inside the <form> container tag.Form elements will be displayed in the same line unless we use the <br> (line break) tag.
+ Forms: You can interact with the visitors of your website and collect information from them using forms.Forms are made of input elements like text fields, checkboxes, and submit buttons. These input elements are nested inside the <form> container tag.Form elements will be displayed in the same line unless we use the <br> (line break) tag.An HTML form is a convenient way to send data to a database hosted in a server.
+
+
 
 You can use forms to let your visitors:
 
@@ -135,6 +137,30 @@ label: for
 Input:id <br>
 
 Connecting labels and inputs increases the <u> hit area </u>
+
+input elements:
+- text
+- radio
+- checkbox
+- submit: A submit button is used to send the data in a form. The submit type of input adds a button to the form.You can use the submit input to send the data in the form to a database hosted in a server.
+
+
+input attributes :
+- name:The name attribute is used to reference the data after submitting the form .Only form elements with a name attribute will have their values passed to the database when submitting a form.The name attribute is used to put the input from the user in the correct field (column) in the database.
+- value :The value attribute defines the value that is submitted when the input is selected.Names and values are needed to correctly store information in the database. The HTML code needs to include where and what to put in the database.For the case of text inputs, you can use the value attribute to define a default value that will be submitted unless a different value is provided by the user.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
  
