@@ -54,6 +54,38 @@ semantic formatting tags : The strong and em tags are considered semantic format
 
 HyperText : a text that contains a link to another page, Web pages are called HyperText documents because they are connected by hyberlinks <br>
 
+landing page : In digital marketing, a landing page is where a visitor “lands” after clicking on a link in an email, an ad on Google, YouTube, Facebook, Twitter, etc.
+
+Landing pages are great for selling stuff; they also let you track customers and collect data.
+
+Whether you're looking to be a web developer, marketer, or even a data scientist, landing pages can be invaluable.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 href: stands for HyperText reference.<br>
 
 
