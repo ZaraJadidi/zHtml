@@ -177,7 +177,8 @@ You can use autoplay, muted and loop attributes to control the behavior of the m
 <br>
 
 web page: The layout of a web page can improve user experience and make the content more readable.
-The body of a web page can be divided into 3 parts.
+The body of a web page can be divided into 3 parts.<br>
+
 Header: "header" The "header" container tag usually contains introductory information.The header often contains navigation links, a menu and/or a search bar. Brand elements like logos are usually found in the header too.
 
 
