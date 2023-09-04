@@ -152,14 +152,23 @@ input attributes :
 
 
 Select container tags:u can use it to create a drop-down list.You can use the <select> element as part of a form to collect user input.The selected attribute creates a drop-down menu with a pre-selected option. The pre-selected option will be displayed first.
-Labels and drop-down menus are connected with for and id attributes, just like any other form element.The <select> element can be used in forms in combination with input elements.
+Labels and drop-down menus are connected with for and id attributes, just like any other form element.The <select> element can be used in forms in combination with input elements.<br>
+
+
+Option container tags:is used inside a  select  tag to add choices for the user.<br>
+
+Videos : Videos can captivate and inform.You can use the <video> container tag to embed video files into a web page.Just like images, videos are embedded (or linked) into a web page. URL is needed. You can add video files in different formats. Common video formats are: MP4, OGG and WebM.
+ <video>
+ <source src="file.mp4" Type="video/mp4">
+ </video>
+ 
 
 
 
 
-<br>
 
-Option container tags:is used inside a  select  tag to add choices for the user.
+
+
 
 
 
