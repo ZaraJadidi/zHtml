@@ -163,11 +163,34 @@ Videos : Videos can captivate and inform.You can use the video container tag to 
 
 <br>
 
- .video.<br>
+ "video controls" <br>
  
- .source src="file.mp4" Type="video/mp4".<br>
+ "source src="file.mp4" Type="video/mp4""<br>
  
- ./video.<br>
+ "/video"<br>
+
+ Audio Media: Sound is another way to engage your visitors, pass on information, or evoke emotions. You can embed audio files into web pages with the "audio" container tag. Just like video, the "source" tag is used to add source options for audio.
+ Just like video, the src attribute adds the audio file URL. The type attribute adds the format.
+Just like video, you can add audio files in different formats. Common audio formats are: MP3, OGG and WAV.
+You can use autoplay, muted and loop attributes to control the behavior of the multimedia element. Just like controls, these attributes have their default values omitted.
+
+<br>
+
+web page: The layout of a web page can improve user experience and make the content more readable.
+The body of a web page can be divided into 3 parts.
+Header: "header"
+Main content: "main"
+Footer: "footer"
+
+
+
+
+
+
+
+
+
+
  
  
 
