@@ -146,16 +146,16 @@ input elements:
 
 
 input attributes :
-- name:The name attribute is used to reference the data after submitting the form .Only form elements with a name attribute will have their values passed to the database when submitting a form.The name attribute is used to put the input from the user in the correct field (column) in the database.
-- value :The value attribute defines the value that is submitted when the input is selected.Names and values are needed to correctly store information in the database. The HTML code needs to include where and what to put in the database.For the case of text inputs, you can use the value attribute to define a default value that will be submitted unless a different value is provided by the user.Data will be sent when the form is submitted. You can control the data each option sends with the value attribute.
+- name: The name attribute is used to reference the data after submitting the form .Only form elements with a name attribute will have their values passed to the database when submitting a form.The name attribute is used to put the input from the user in the correct field (column) in the database.
+- value : The value attribute defines the value that is submitted when the input is selected.Names and values are needed to correctly store information in the database. The HTML code needs to include where and what to put in the database.For the case of text inputs, you can use the value attribute to define a default value that will be submitted unless a different value is provided by the user.Data will be sent when the form is submitted. You can control the data each option sends with the value attribute.
 
 
 
-Select container tags:u can use it to create a drop-down list.You can use the <select> element as part of a form to collect user input.The selected attribute creates a drop-down menu with a pre-selected option. The pre-selected option will be displayed first.
+Select container tags: u can use it to create a drop-down list.You can use the <select> element as part of a form to collect user input.The selected attribute creates a drop-down menu with a pre-selected option. The pre-selected option will be displayed first.
 Labels and drop-down menus are connected with for and id attributes, just like any other form element.The <select> element can be used in forms in combination with input elements.<br>
 
 
-Option container tags:is used inside a  select  tag to add choices for the user.<br>
+Option container tags: is used inside a  select  tag to add choices for the user.<br>
 
 Videos : Videos can captivate and inform.You can use the <video> container tag to embed video files into a web page.Just like images, videos are embedded (or linked) into a web page. URL is needed. You can add video files in different formats. Common video formats are: MP4, OGG and WebM.
  <video>
