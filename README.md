@@ -157,7 +157,10 @@ Labels and drop-down menus are connected with for and id attributes, just like a
 
 Option container tags: is used inside a  select  tag to add choices for the user.<br>
 
-Videos : Videos can captivate and inform.You can use the .video. container tag to embed video files into a web page.Just like images, videos are embedded (or linked) into a web page. URL is needed. You can add video files in different formats. Common video formats are: MP4, OGG and WebM.
+Videos : Videos can captivate and inform.You can use the video container tag to embed video files into a web page.Just like images, videos are embedded (or linked) into a web page. URL is needed. You can add video files in different formats. Common video formats are: MP4, OGG and WebM.The source empty tag provides the location and format of the video file.The src attribute specifies the URL of the video file.The type attribute specifies the format of the video file.Different media formats are needed for compatibility with different browsers and devices. The source tag allows you to add multiple files.When different source options are included, the browser will choose the first one it supports.You can add text between the video tags. The text will only be displayed in browsers that don’t support the video element.You can display play/pause, volume and other video controls with the controls attribute.Add the controls attribute if you want to show default video controls like play, pause, etc.  
+
+
+
 <br>
 
  .video.<br>
