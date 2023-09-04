@@ -185,9 +185,19 @@ Header: "header" The "header" container tag usually contains introductory inform
 
 <br>
 
-Main content: "main"<br>
+Main content: "main"   The "main" container tag is used to include the main content of a web page. 
+There must not be more than one <main> element in a document.
 
-Footer: "footer"<br>
+
+<br>
+
+Footer: "footer"  The "footer" container tag often contains contact and legal information and links.You can have several <footer> elements in one document.
+
+
+
+<br>
+
+header, main and footer elements are nested inside the body container tag
 
 
 
