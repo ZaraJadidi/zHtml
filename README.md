@@ -197,7 +197,22 @@ Footer: "footer"  The "footer" container tag often contains contact and legal in
 
 <br>
 
-header, main and footer elements are nested inside the body container tag
+header, main and footer elements are nested inside the body container tag <br>
+
+Responsive web design : makes web pages look great on any screen <br>
+
+Article : represents an independent, self-contained piece of content. An article is content that would make sense on its own.
+
+The article tag clearly indicates the role for its content. It’s used for content like news stories, and blog posts.<br>
+
+Section: helps to break down the content into parts. is a semantic tag. It usually includes a heading. <br>
+
+Aside: is used for secondary, additional or somehow related content. 
+
+
+
+
+
 
 
 
