@@ -218,6 +218,7 @@ The style attribute can make your life a whole lot easier when it comes to forma
 <br>
 text-align : to control allignment <br>
 
+
 color : to set color<br>
 
 font-size : control the font size<br>
