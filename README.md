@@ -229,6 +229,27 @@ border : Some style properties require multiple values. The border property is a
 The only required border subproperty is border-style. If the width is not specified the default value will be “medium”. If color is not specified, the color of the text will be applied to the border.
 <br>
 
+<br>
+
+<br>
+
+Every HTML element is either inline or block.<br>
+
+Block-level elements always start on a new line.<br>
+
+Inline elements don't start on a new line.<br>
+
+Block-level elements take up the full width available.<br>
+
+Inline elements only take up as much width as necessary.Inline elements can be nested inside block-level elements.Line break br tags are used to force inline elements to start on a new line.<br>
+
+Inline : format tags(b,u,i), Buttons , a <br>
+
+Block : ul(li), p <br>
+
+
+
+
 
 
 
