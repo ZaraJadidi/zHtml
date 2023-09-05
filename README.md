@@ -243,9 +243,30 @@ Block-level elements take up the full width available.<br>
 
 Inline elements only take up as much width as necessary.Inline elements can be nested inside block-level elements.Line break br tags are used to force inline elements to start on a new line.<br>
 
-Inline : format tags(b,u,i), Buttons , a <br>
+Inline : format tags(b,u,i), Buttons , a , form tags ( input , label ) <br>
 
-Block : ul(li), p <br>
+Block : ul(li), p , h  <br> 
+
+<br>
+
+<br>
+
+
+Content Division: Grouping different HTML elements can make your pages faster to load and easier to customize and maintain.<br>
+
+div :  is a container for HTML elements that keeps your pages organized. it always takes up the full width available so it is a block-level element. it's a container that groups related content on a web page, such as a sidebar or a navigation menu.
+it doesn’t add meaning to the content because it’s a non-semantic tags. it doesn't add any visual effect unless you add a style to it. It’s often used by web developers to group and style HTML elements.
+The style in a div container will apply to all its nested elements unless you give them their own.
+
+<br>
+
+<br>
+
+
+
+
+
+
 
 
 
