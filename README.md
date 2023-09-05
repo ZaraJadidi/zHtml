@@ -209,6 +209,23 @@ Section: helps to break down the content into parts. is a semantic tag. It usual
 
 Aside: is used for secondary, additional or somehow related content. 
 
+STYLE Atteibute:<br>
+
+With the style attribute, you can fully customize the visual presentation of your websites, from typography and colors to layout and more.The style attribute can be used to define properties like color, font size and alignment.
+
+The style attribute can make your life a whole lot easier when it comes to formatting. You can customize multiple properties at the same time. Just separate each property:value pair with a semicolon (;).
+
+<br>
+text-align : to control allignment <br>
+
+color : to set color<br>
+
+font-size : control the font size
+
+
+
+
+
 
 
 
