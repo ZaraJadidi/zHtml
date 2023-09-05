@@ -274,6 +274,11 @@ borders : Borders can be added to tables, rows and cells with the style attribut
 
 th : Tables usually include headers. A header is a special row at the top of the table used to label each column. _> Table header cells >> nested inside tr  <br>
 
+colspan & rowspan : use to merge cells . You can make cells that take up multiple rows and/or columns, using the attributes colspan and rowspan. This is called merging cells.colspan is for the number of columns a cell should span. <br>
+
+
+let's expand our horizons with Js  :)
+
 
 
 
