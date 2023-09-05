@@ -220,7 +220,20 @@ text-align : to control allignment <br>
 
 color : to set color<br>
 
-font-size : control the font size
+font-size : control the font size<br>
+
+background-color: is useful for styling elements like buttons. <br>
+
+border : Some style properties require multiple values. The border property is an example of that. The border property is a short and simple way to refer to 3 different sub-properties. That’s why it can take 3 values.
+The only required border subproperty is border-style. If the width is not specified the default value will be “medium”. If color is not specified, the color of the text will be applied to the border.
+<br>
+
+
+
+
+
+
+
 
 
 
