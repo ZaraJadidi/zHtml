@@ -243,7 +243,7 @@ Block-level elements take up the full width available.<br>
 
 Inline elements only take up as much width as necessary.Inline elements can be nested inside block-level elements.Line break br tags are used to force inline elements to start on a new line.<br>
 
-Inline : format tags(b,u,i), Buttons , a , form tags ( input , label ) <br>
+Inline : format tags(b,u,i), Buttons , a , form tags ( input , label ) , td elements  <br>
 
 Block : ul(li), p , h  <br> 
 
@@ -261,6 +261,27 @@ The style in a div container will apply to all its nested elements unless you gi
 <br>
 
 <br>
+
+Tables : Tables help you display data in a way that’s easy to scan, compare, and analyze.<br>
+
+You can add a table to your web page with the table container tag.<br>
+
+tr : You can add rows to a table with the tr (table row) container tag. Rows are nested inside the table tag.<br>
+
+td : You can add cells with the td (table data) container tag. They are nested inside rows. td elements within the same row are displayed on the same line, one after the other. _> Table data cells >> nested inside tr  <br>
+
+borders : Borders can be added to tables, rows and cells with the style attribute. <br> 
+
+th : Tables usually include headers. A header is a special row at the top of the table used to label each column. _> Table header cells >> nested inside tr  <br>
+
+
+
+
+
+
+
+
+
 
 
 
